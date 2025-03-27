@@ -1,0 +1,6 @@
+Market Trend Analysis
+======================
+Trend
+Down         252
+No Change      5
+Up           243
